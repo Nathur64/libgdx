@@ -61,6 +61,9 @@ get (non-mandatory) credit in case you release a game or app using libgdx!
 ### Supported By
 libGDX is supported by helpful 3rd parties via code contributions, free licenses, test devices and so forth. Make our supporters happy and visit their sites!
 
+### Credit
+libGDX has put a lot of work into this, and I am more than willing to give them credit for their work.  I'm only using this code to help me write my own game-engine.  
+
 <table>
 <tr>
 <td style="text-align: center;"><a href="http://bit.ly/robovmgdx"><img style="margin-right:20px" src="http://libgdx.badlogicgames.com/img/robovm.png" alt="RoboVM" /></a></td>
