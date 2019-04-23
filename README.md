@@ -59,7 +59,7 @@ can use it free of charge, without strings attached in commercial and non-commer
 get (non-mandatory) credit in case you release a game or app using libgdx!
 
 ### Credit
-libGDX has put a lot of work into this, and I am more than willing to give them credit for their work.  I'm only using this code to help me write my own game-engine.  
+libGDX has put a lot of work into this, and I am more than willing to give them credit for their work.  I'm only using this code to help me write my own game-engine.  This is a fork from https://github.com/libgdx/libgdx.  
 
 ### Supported By
 libGDX is supported by helpful 3rd parties via code contributions, free licenses, test devices and so forth. Make our supporters happy and visit their sites!
